@@ -25,7 +25,7 @@ Get insights based on SQL queries directly from the database:
 ## 🗂️ Files Included
 * Missing Data_python.ipynb: Jupyter Notebook containing all Python and SQL logic
 * Missing Data_database.png: Database schema/ERD
-* Missing Data_database.sql: SQL script for setting up the database and initial tables
+* Missing Data_database.sql.zip: SQL script for setting up the database and initial tables
 * คู่มือการใช้งาน ระบบข้อมูลการรีวิวหนังสือเว็บ Amazon.pdf: Thai user manual explaining the system interface
 
 🚀 How to Run
