@@ -59,16 +59,16 @@ In this mode, users can perform the following actions:
   * Return to the main menu interface
 
 ## 🔹 Python and SQL Code Used in Mode 1
-Mode 1
+Mode 1<br>
 ![image](https://github.com/user-attachments/assets/91b07dbc-8938-4f89-a879-8cd95a02e509)
 
-1.1 Search by Book Title
+1.1 Search by Book Title<br>
 ![image](https://github.com/user-attachments/assets/abe77575-19ec-4014-91fa-07107bebebdb)
 
-1.2 Search by Author
+1.2 Search by Author<br>
 ![image](https://github.com/user-attachments/assets/9b63d534-988c-4a95-ba78-603f3c57b0da)
 
-1.3 Review a Book (Triggered from 1.1 or 1.2)
+1.3 Review a Book (Triggered from 1.1 or 1.2)<br>
 ![image](https://github.com/user-attachments/assets/42728d95-5a4c-41cf-bea2-22c69983033e)
 
 ## 🖼️ Example Output
