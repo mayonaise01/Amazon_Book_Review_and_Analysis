@@ -51,15 +51,25 @@ In this mode, users can perform the following actions:
   * Input partial or full author name
   * Get list of matching books by the author
 
-1.3 Review a Book
+1.3 Review a Book (Triggered from 1.1 or 1.2)
   * After selecting a book, enter a rating (1–5)
   * Add an optional review comment
 
-1.4 Back to Main Menu
+1.4 Back to Main Menu (Triggered from 1.1 or 1.2)
   * Return to the main menu interface
 
-## 🔹 SQL Code Used in Mode 1
-(Insert SQL code screenshot or markdown block here — e.g., for searching and inserting review)
+## 🔹 Python and SQL Code Used in Mode 1
+Mode 1
+![image](https://github.com/user-attachments/assets/91b07dbc-8938-4f89-a879-8cd95a02e509)
+
+1.1 Search by Book Title
+![image](https://github.com/user-attachments/assets/abe77575-19ec-4014-91fa-07107bebebdb)
+
+1.2 Search by Author
+![image](https://github.com/user-attachments/assets/9b63d534-988c-4a95-ba78-603f3c57b0da)
+
+1.3 Review a Book (Triggered from 1.1 or 1.2)
+![image](https://github.com/user-attachments/assets/42728d95-5a4c-41cf-bea2-22c69983033e)
 
 ## 🖼️ Example Output
 (Insert screenshots of user interface or sample output here)
