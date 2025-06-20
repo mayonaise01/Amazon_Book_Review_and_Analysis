@@ -72,7 +72,26 @@ Mode 1<br>
 ![image](https://github.com/user-attachments/assets/42728d95-5a4c-41cf-bea2-22c69983033e)
 
 ## 🖼️ Example Output
-(Insert screenshots of user interface or sample output here)
+Mode 1<br>
+![12 reviewmode](https://github.com/user-attachments/assets/675082c1-fc8b-4c72-9b0b-9823be9a6ed0)
+
+1.1 Search by Book Title<br>
+![12 reviewmode](https://github.com/user-attachments/assets/9fbf94ca-733b-4d13-88ff-c842d167e0c5)
+![14 หลัง search หนังสือ](https://github.com/user-attachments/assets/035f9260-0bd1-4367-975c-8d18be092ad1)
+
+
+1.2 Search by Author<br>
+![18 search by auther](https://github.com/user-attachments/assets/09ba611d-a7ff-410b-8291-2da597b75b15)
+![19 search by authors 1](https://github.com/user-attachments/assets/060247ba-e310-4d13-9a8a-49042334b612)
+![20 result search by author](https://github.com/user-attachments/assets/c4e10c90-7fd9-4608-8d6f-7fa34af4b555)
+
+
+
+1.3 Review a Book (Triggered from 1.1 or 1.2)<br>
+![15 REVIEW SCORE](https://github.com/user-attachments/assets/88b567f0-7d4e-4eb1-bbd2-c16e52de2723)
+![16 comment](https://github.com/user-attachments/assets/9ab8eb74-c1a6-4a89-af66-023dff3752f3)
+
+
 
 ## 📈 Mode 2: Analytics Reports
 This mode provides access to 3 analytical views:
