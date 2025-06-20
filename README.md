@@ -109,11 +109,34 @@ This mode provides access to 3 analytical views:
 2.4 Back to Main Menu
   * Return to the main menu interface
 
-## 🔹 SQL Code Used in Mode 2
-(Insert SQL code screenshots or markdown block here — separate by 2.1, 2.2, 2.3)
+## 🔹 Python and SQL Code Used in Mode 2
+Mode 2<br>
+![image](https://github.com/user-attachments/assets/f4eecb86-798c-49ea-ae2c-6e6174822f25)
+
+2.1 Distribution of Reviewer Age & Book Publish Year<br>
+![image](https://github.com/user-attachments/assets/d2548b0f-6932-4618-9cee-0d67367dea1a)
+
+2.2 Average Rating by Book Category<br>
+![image](https://github.com/user-attachments/assets/0297ef1f-0ff4-4568-989e-63853cb5c725)
+
+2.3 Probability of Authors Receiving Ratings > 4<br>
+![image](https://github.com/user-attachments/assets/9a5ab1c5-0447-447e-8c39-5a24ef6b8ded)
+
 
 ## 🖼️ Example Output
-(Insert plots or tables of each analytic report here)
+Mode 2<br>
+![21 menu analytic](https://github.com/user-attachments/assets/300c7025-8502-4a2f-962c-48bdb4f39b3e)
+
+2.1 Distribution of Reviewer Age & Book Publish Year<br>
+![22 age distri](https://github.com/user-attachments/assets/51e627f1-8b12-4943-9715-b688dcd31d3b)
+![23 year distri](https://github.com/user-attachments/assets/1b2323d9-99de-4579-a727-f265363988b4)
+
+2.2 Average Rating by Book Category<br>
+![24 average rating](https://github.com/user-attachments/assets/0b049b2e-eed2-4d6b-8bd2-80147407aba6)
+
+2.3 Probability of Authors Receiving Ratings > 4<br>
+![25 probability](https://github.com/user-attachments/assets/b4035b36-fb83-4bf7-b427-91e7f61821a7)
+
 
 ## ❌ Mode 3: Exit
 Cleanly exits the application.
