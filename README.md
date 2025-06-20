@@ -1,13 +1,11 @@
 # Amazon_Book_Review_and_Analysis
 This project is a Python-SQL integrated application that allows users to explore, review, and analyze books available on Amazon. The system connects a MySQL database with a Python interface using mysql-connector, allowing dynamic interaction with book review data via SQL queries executed within Python.
 
-🔧 Project Features
-🔍 Book Recommendation & Review
-Search books by title or author
-
-Submit your rating (1–5) and review comments
-
-Register automatically if you're a new user
+##🔧 Project Features
+##🔍 Book Recommendation & Review
+*Search books by title or author
+*Submit your rating (1–5) and review comments
+*Register automatically if you're a new user
 
 📊 Analytics & Reports
 Get insights based on SQL queries directly from the database:
